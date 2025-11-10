@@ -22,7 +22,4 @@
 
 元のプロジェクトはMITライセンス（一部CC-BY-ND）の下で公開されており、組織での利用時は出典明示により自由に利用可能とされています。
 
-## フォントについて
-
-このプロジェクトではIPAexゴシックフォントを使用しています。 ライセンス: IPA Font License Agreement v1.0 詳細は `IPA_Font_License_Agreement_v1.0.txt` を参照してください。
 
